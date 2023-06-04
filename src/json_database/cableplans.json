@@ -1,0 +1,233 @@
+[
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 2,
+    "CableplanName": "GOtv Max",
+    "amount": 4150
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 5,
+    "CableplanName": "Asian Bouqet",
+    "amount": 18150
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 6,
+    "CableplanName": "DStv Yanga Bouquet E36",
+    "amount": 2950
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 7,
+    "CableplanName": "DStv Compact",
+    "amount": 9000
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 8,
+    "CableplanName": "DStv  Compact Plus",
+    "amount": 14250
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 9,
+    "CableplanName": "DStv Premium",
+    "amount": 21000
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 11,
+    "CableplanName": "CLASSIC",
+    "amount": 2750
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 12,
+    "CableplanName": "BASIC",
+    "amount": 1850
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 13,
+    "CableplanName": "SMART",
+    "amount": 2600
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 14,
+    "CableplanName": "NOVA",
+    "amount": 900
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 15,
+    "CableplanName": "SUPER",
+    "amount": 4900
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 16,
+    "CableplanName": "GOtv Jin ja Bouquet",
+    "amount": 1900
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 17,
+    "CableplanName": "GOtv Jolli",
+    "amount": 2800
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 18,
+    "CableplanName": "GOtv smallie 1 month",
+    "amount": 900
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 19,
+    "CableplanName": "DStv Confam Bouquet E36",
+    "amount": 5300
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 20,
+    "CableplanName": "Padi",
+    "amount": 2150
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 21,
+    "CableplanName": "Nova - 300 Naira - 1 Week",
+    "amount": 300
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 22,
+    "CableplanName": "Basic - 600 Naira - 1 Week",
+    "amount": 600
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 23,
+    "CableplanName": "Smart - 700 Naira - 1 Week",
+    "amount": 700
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 24,
+    "CableplanName": "Classic - 1200 Naira - 1 Week",
+    "amount": 1200
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 25,
+    "CableplanName": "Super - 1,500 Naira - 1 Week",
+    "amount": 1500
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 26,
+    "CableplanName": "Nova - 90 Naira - 1 Day",
+    "amount": 90
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 27,
+    "CableplanName": "Basic - 160 Naira - 1 Day",
+    "amount": 160
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 28,
+    "CableplanName": "Smart - 200 Naira - 1 Day",
+    "amount": 200
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 29,
+    "CableplanName": "Classic - 320 Naira - 1 Day",
+    "amount": 320
+  },
+  {
+    "category": "startime",
+    "active": true,
+    "CableplanID": 30,
+    "CableplanName": "Super - 400 Naira - 1 Day",
+    "amount": 400
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 31,
+    "CableplanName": "GOtv Smallie - Monthly",
+    "amount": 900
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 32,
+    "CableplanName": "GOtv Smallie - Quarterly",
+    "amount": 2400
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 33,
+    "CableplanName": "DStv Compact XtraView",
+    "amount": 11900
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 34,
+    "CableplanName": "DStv Compact Plus XtraView",
+    "amount": 17150
+  },
+  {
+    "category": "dstv",
+    "active": true,
+    "CableplanID": 35,
+    "CableplanName": "DStv Premium Xtraview",
+    "amount": 23900
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 36,
+    "CableplanName": "GOtv Supa",
+    "amount": 5500
+  },
+  {
+    "category": "gotv",
+    "active": true,
+    "CableplanID": 37,
+    "CableplanName": "GOtv smallie 1 year",
+    "amount": 7000
+  }
+]

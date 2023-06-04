@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mtn",
+        "id": 1,
+        "img": "https://i.imgur.com/d4NW1E8.png",
+        "category": "","active": true
+    },
+    {
+        "name": "Glo",
+        "id": 2,
+        "img": "https://i.imgur.com/AYwwZ70.png",
+        "category": "","active": true
+    },
+    {
+        "name": "9mobile",
+        "id": 3,
+        "img": "https://i.imgur.com/heRpzyN.png",
+        "category": "","active": true
+    },
+    {
+        "name": "Airtel",
+        "id": 4,
+        "img": "https://i.imgur.com/tKCtfjp.png",
+        "category": "","active": true
+    }
+]

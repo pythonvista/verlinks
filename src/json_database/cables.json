@@ -1,0 +1,20 @@
+[
+ {
+  "category": "","active": true,
+   "CableID": 1,
+   "CableName": "GOTV",
+   "img": "https://i.imgur.com/1b2Wmjz.png"
+ },
+ {
+  "category": "","active": true,
+   "CableID": 2,
+   "CableName": "DSTV",
+   "img": "https://i.imgur.com/rvxF53Q.png"
+ },
+ {
+  "category": "","active": true,
+   "CableID": 3,
+   "CableName": "STARTIME",
+   "img":"https://i.imgur.com/5bx0u4x.png"
+ }
+]

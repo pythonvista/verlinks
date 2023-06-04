@@ -1,0 +1,72 @@
+[
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 1,
+    "Disconame": "Ikeja Electric",
+    "img": "https://i.imgur.com/X3gExdf.png"
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 2,
+    "Disconame": "Eko Electric",
+    "img": "https://i.imgur.com/EyqkDuQ.png"
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 3,
+    "Disconame": "Abuja Electric",
+    "img": "https://i.imgur.com/XbhZIvR.png"
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 4,
+    "Disconame": "Kano Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 5,
+    "Disconame": "Enugu Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 6,
+    "Disconame": "Port Harcourt Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 7,
+    "Disconame": "Ibadan Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 8,
+    "Disconame": "Kaduna Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 9,
+    "Disconame": "Jos Electric",
+    "img": ""
+  },
+  {
+    "category": "",
+    "active": true,
+    "DiscoID": 11,
+    "Disconame": "Yola Electric",
+    "img": ""
+  }
+]

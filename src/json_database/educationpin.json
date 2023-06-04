@@ -1,0 +1,23 @@
+[
+    {
+     "examid": 1,
+     "examName": "WAEC",
+     "amount": 2500,
+     "active": true,
+     "img": "https://i.imgur.com/9NDW6yE.jpg"   
+    },
+    {
+     "examid": 2,
+     "examName": "NECO",
+     "amount": 1800,
+     "active": true,
+     "img": "https://i.imgur.com/nfCPjXL.png"
+    },
+    {
+     "examid": 3,
+     "examName": "NABTEB",
+     "amount": 2000,
+     "active": true ,
+     "img": "https://i.imgur.com/kHZL47O.png"  
+    }
+]

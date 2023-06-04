@@ -1,0 +1,7 @@
+[
+    {"network": "MTN", "number": "0xxx000000", "id": "1", "percent":10 , "active": true},
+    {"network": "GLO", "number": "0xxx000000", "id": "1", "percent":10, "active": true},
+    {"network": "AIRTEL", "number": "0xxx000000", "id": "1", "percent":10, "active": true},
+    {"network": "9MOBILE", "number": "0xxx000000", "id": "1", "percent":10, "active": true}
+
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "amount": 0,
+    "dataId": 13,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦4200.0",
+    "Size": "15.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 14,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦3360.0",
+    "Size": "11.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 15,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦1640.0",
+    "Size": "4.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 27,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦3680.0",
+    "Size": "18.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 28,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦2760.0",
+    "Size": "14.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 29,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦2300.0",
+    "Size": "10.8 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 30,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦1840.0",
+    "Size": "9.2 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 31,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦1380.0",
+    "Size": "7.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 32,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦920.0",
+    "Size": "3.9 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 33,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦984.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 36,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦820.0",
+    "Size": "1.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 37,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦460.0",
+    "Size": "1.35 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 44,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦1070.0",
+    "Size": "5.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 230,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦642.0",
+    "Size": "3.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 50,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦428.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 51,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦214.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 58,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦12600.0",
+    "Size": "75.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 60,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦108.0",
+    "Size": "500.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 61,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦960.0",
+    "Size": "1.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 65,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦1920.0",
+    "Size": "4.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 66,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦3360.0",
+    "Size": "12.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 67,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦4825.0",
+    "Size": "20.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 73,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦4600.0",
+    "Size": "24.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 74,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦13800.0",
+    "Size": "93.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 75,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦7360.0",
+    "Size": "29.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 77,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦9600.0",
+    "Size": "40.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 99,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦115.0",
+    "Size": "500.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 100,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦230.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 101,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦460.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 104,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦14400.0",
+    "Size": "75.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 105,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦2400.0",
+    "Size": "6.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 106,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦19200.0",
+    "Size": "120.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 107,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦285.0",
+    "Size": "1000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 108,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦1045.0",
+    "Size": "2000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 109,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦523.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 110,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦1425.0",
+    "Size": "6000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 111,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦523.0",
+    "Size": "750.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 112,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦95.0",
+    "Size": "100.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 116,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦1150.0",
+    "Size": "5.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 117,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦44.0",
+    "Size": "25.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 118,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦84.0",
+    "Size": "100.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 119,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦168.0",
+    "Size": "650.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 120,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦246.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 121,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦410.0",
+    "Size": "2000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 122,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦168.0",
+    "Size": "250.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 123,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦410.0",
+    "Size": "500.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 125,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦291.0",
+    "Size": "1000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 126,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦485.0",
+    "Size": "2000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 129,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦1455.0",
+    "Size": "6000.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 130,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦485.0",
+    "Size": "750.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 131,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦970000.0",
+    "Size": "1.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 132,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦1164.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 133,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦1455.0",
+    "Size": "3.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 134,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦1940.0",
+    "Size": "4.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 135,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦2425.0",
+    "Size": "6.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 136,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦2910.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 137,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦3880.0",
+    "Size": "11.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 138,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦4850.0",
+    "Size": "20.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 139,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦9700.0",
+    "Size": "40.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 140,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦14550.0",
+    "Size": "75.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 141,
+    "Network": "AIRTEL",
+    "planType": "GIFTING",
+    "Amount": "₦19400.0",
+    "Size": "120.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 142,
+    "Network": "9MOBILE",
+    "planType": "GIFTING",
+    "Amount": "₦8400.0",
+    "Size": "40.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 143,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦16560.0",
+    "Size": "119.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 144,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦18400.0",
+    "Size": "138.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 145,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦2880.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 146,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦2300.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 149,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦4560.0",
+    "Size": "20.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 150,
+    "Network": "MTN",
+    "planType": "SME",
+    "Amount": "₦2140.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 207,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦9200.0",
+    "Size": "50.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 208,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦3420.0",
+    "Size": "15.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 209,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦9100.0",
+    "Size": "40.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 210,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦16875.0",
+    "Size": "75.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 211,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦23000.0",
+    "Size": "100.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 212,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦100.0",
+    "Size": "500.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 213,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦200.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 214,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦400.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 215,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦1000.0",
+    "Size": "5.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 216,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦50.0",
+    "Size": "100.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 217,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦92.0",
+    "Size": "300.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 226,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦690.0",
+    "Size": "3.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 231,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦2000.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 232,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦3000.0",
+    "Size": "15.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 233,
+    "Network": "AIRTEL",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦4000.0",
+    "Size": "20.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 234,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦40.0",
+    "Size": "40.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 237,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦1440.0",
+    "Size": "3.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 236,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦1152.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 238,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦190.0",
+    "Size": "250.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 239,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦475.0",
+    "Size": "2.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 240,
+    "Network": "MTN",
+    "planType": "GIFTING",
+    "Amount": "₦285.0",
+    "Size": "750.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 241,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦310.0",
+    "Size": "1.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 242,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦620.0",
+    "Size": "2.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 243,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦465.0",
+    "Size": "1.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 244,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦930.0",
+    "Size": "3.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 245,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦1240.0",
+    "Size": "4.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 246,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦1395.0",
+    "Size": "4.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 247,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦1085.0",
+    "Size": "3.5 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 248,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦1550.0",
+    "Size": "5.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 249,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦3100.0",
+    "Size": "10.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 250,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦46.0",
+    "Size": "50.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 251,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦92.0",
+    "Size": "150.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 252,
+    "Network": "GLO",
+    "planType": "GIFTING",
+    "Amount": "₦184.0",
+    "Size": "350.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 253,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦60.0",
+    "Size": "250.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 254,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦45.0",
+    "Size": "150.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 255,
+    "Network": "MTN",
+    "planType": "CORPORATE GIFTING",
+    "Amount": "₦25.0",
+    "Size": "50.0 MB",
+    "Validity": "1 month",
+    "category": "","active": true
+  },
+  {
+    "amount": 0,
+    "dataId": 256,
+    "Network": "9MOBILE",
+    "planType": "SME",
+    "Amount": "₦9100.0",
+    "Size": "40.0 GB",
+    "Validity": "1 month",
+    "category": "","active": true
+  }
+]

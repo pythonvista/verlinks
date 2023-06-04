@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        fetch("https://api.mtn.com/v1/datashare/customers/2348101074859/dataShare", {
+            "method": "POST",
+            "mode": "no-cors",
+            "headers": {
+                "Content-Type": "application/json",
+                "X-API-Key": "HCDWH7S6QwJb4vNl"
+            },
+            "body": "{\"receiverMsisdn\":\"2348108007678\",\"requestedDataAmount\":\"100\"}"
+        }).then(response => {
+                console.log(response);
+            })
+            .catch(err => {
+                console.error(err);
+            });
+    </script>
+</body>
+
+</html>
